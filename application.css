@@ -8,6 +8,8 @@ body {
     font-size: 13px;
 }
 
+P { text-align: center }
+
 #textBackground {
     background-color: white;
     border-radius: 25px;
