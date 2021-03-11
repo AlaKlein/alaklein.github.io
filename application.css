@@ -8,9 +8,8 @@ body {
     font-size: 13px;
 }
 
-    .imgpos {
-        position: static;
-        float:right;  
+#textBackground {
+    background-color: white;
+    border-radius: 25px;
+    padding: 20px;
 }
-    
-
