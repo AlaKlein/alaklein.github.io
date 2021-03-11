@@ -2,7 +2,7 @@ body {
     width: 25%;
     margin: auto;
     background: url(background.jpg) center;
-    background-repeat: repeat-y;
+    background-repeat: repeat-n;
     line-height: 1.25;
 
     font-family: Arial;
