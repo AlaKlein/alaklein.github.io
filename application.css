@@ -1,7 +1,7 @@
 body {
     width: 25%;
     margin: auto;
-    background: url(background.jpg) no-repeat fixed center;
+    background-color: lightblue;
     line-height: 1.25;
 
     font-family: Arial;
